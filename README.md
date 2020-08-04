@@ -1,6 +1,6 @@
-### Hi there, I'm Javi 👋
+## Hi there, I'm Javi 👋
 
-## I'm an student, developer and sportsman!
+### I'm an student, developer and sportsman!
 
 - 🔭 I’m currently working on the University of Cantabria as a PDI
 - 🌱 I’m currently learning everything 🤣
