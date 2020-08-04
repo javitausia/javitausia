@@ -1,6 +1,7 @@
 ### Hi there, I'm Javi 👋
 
-## I'm an student, developer, and sportsman!
+## I'm an student, developer and sportsman!
+
 - 🔭 I’m currently working on the University of Cantabria as a PDI
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -9,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="javitausia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="javitausia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="javitausia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="javitausia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -41,6 +42,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="javitausia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=javitausia&show_icons=true&hide_border=true" />
 
-[twitter]: https://twitter.com/Javichu_Tausia
-[instagram]: https://instagram.com/javichu_tausia
 [linkedin]: https://linkedin.com/in/jtausia
+[instagram]: https://instagram.com/javichu_tausia
+[twitter]: https://twitter.com/Javichu_Tausia
