@@ -2,10 +2,9 @@
 
 ### I'm an student, developer and sportsman!
 
-- 🔭 I’m currently working on the University of Cantabria as a PDI
+- 🔭 I’m currently working on my thesis at the University of Cantabria as a PDI
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love the ocean and surfing
 
 ### Connect with me:
